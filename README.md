@@ -7,7 +7,7 @@ You'll need to import BeautifulSoup, requests and smtplib!
 
 Requests allows your computer to reach out to a specific URL.<br>
 BeautifulSoup parses HTML for data according to parameters you set.<br>
-Smtplib (Simple Mail Transer Protocol Library) automates your email to send others or in this case, yourself mail.
+Smtplib (Simple Mail Transer Protocol Library) automates your email to send others or, in this case, yourself, mail.
 
 # Step by step
 
